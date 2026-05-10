@@ -13,3 +13,10 @@ def deduct_numbers(a,b):
 def login():
     "This function is to create the login functionality"
     return True
+
+def logout():
+    "This function is to create the logout functionality"
+    return True
+
+def sum_three_numbers(a,b,c):
+    return a + b + c

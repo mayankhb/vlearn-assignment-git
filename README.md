@@ -1,0 +1,1 @@
+This repository contains the Screenshots of the git commands I ran in terminal for all 4 questions. Further, tihs repository also contains the complete git log of all commands ran for the 4 questions.

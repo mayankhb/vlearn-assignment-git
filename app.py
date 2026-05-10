@@ -9,3 +9,6 @@ def product_numbers(a,b):
 
 def deduct_numbers(a,b):
     return a - b
+
+def login():
+    return True

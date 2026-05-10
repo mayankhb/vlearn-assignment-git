@@ -11,4 +11,5 @@ def deduct_numbers(a,b):
     return a - b
 
 def login():
+    "This function is to create the login functionality"
     return True

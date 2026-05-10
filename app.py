@@ -3,3 +3,6 @@ b = 2
 
 def sum_numbers(a,b):
     return a + b
+
+def product_numbers(a,b):
+    return a * b
